@@ -1,9 +1,12 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hello 👋, I'm Tran Vu Bao</h1>
-<h3 align="left">A code lover from Viet Nam</h1>
+<h3 align="center">A code lover from Viet Nam</h1>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA5ZGR1ZW92NzFlYmR4b2dpMjVzaTdyeGt2dW9wN2l2czJya3k2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PGOfNH0KhpvZ1ssAw1/giphy.gif" style="z-index: 10">
+
+<h4>LeetCode</h4>
+<p>https://leetcode.com/u/tranvubao2004/</p>
 
 # 💫 About Me:
 📝 I'm working towards becoming a professional Software Engineer.<br>🥰 My favourite: Code, Game, Music, ...<br>🍃 I'm currently learning<br>✈️ Aiming to create a personal game and make it famouss!
