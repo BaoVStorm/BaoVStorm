@@ -25,10 +25,6 @@
 [![](https://visitcount.itsvg.in/api?id=BaoVStorm&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/BaoVStorm/BaoVStorm/output/snake.svg" alt="Snake animation" />
-
-###
